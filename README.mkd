@@ -36,7 +36,7 @@ Some of text below has been extracted from [The ACM Award Wikipedia page](https:
   * 1983 - [Barry Boehm](https://en.wikipedia.org/wiki/Barry_Boehm)'s [Software Engineering Economics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.9642&rep=rep1&type=pdf)
   * 1999 - [David Parnas](https://en.wikipedia.org/wiki/David_Parnas)'s [Software Engineering Programs are not Computer Science Programs](http://courses.utep.edu/portals/870/parnas_SEisnotCS.pdf)
 
-* 1967 [Maurice V. Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes)
+* 1967 - [Maurice V. Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes)
   Professor Wilkes is best known as the builder and designer of the EDSAC, the first computer with an internally stored program. Built in 1949, the EDSAC used a mercury delay line memory.
   He is also known as the author, with Wheeler and Gill, of a volume on "Preparation of Programs for Electronic Digital Computers" in 1951, in which program libraries were effectively introduced.
   That was the first textbook, ever, on programming.
