@@ -1,0 +1,69 @@
+
+The Turing Award Challenge
+===========================
+
+The challenge is simple.
+For every Turing award winner:
+ * read their award page
+ * skim their wikipedia page
+ * read one or two of their most cited papers
+ * read a paper about their works realized in modern systems.
+
+You get bonus points if you read or watch their Turing Award speech.
+
+You are encouraged to find the papers yourself (using Google Scholar or the annotated biblios), but you can cheat with the list below.
+Some of text below has been extracted from [The ACM Award Wikipedia page](https://en.wikipedia.org/wiki/Turing_Award), which is extracted from the ACM Winners' pages.
+
+#### Why?
+
+ _If I have seen further it is by standing on the shoulders of giants._ - Sir Isaac Newton; 1676.
+
+### The Award Winners
+
+* 1966 - [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+  For his influence in the area of advanced computer programming techniques and compiler construction.
+
+  ALGOL, numeric and algorithmic computations, defining the field of computer science, establishing a notion of software metrics.
+  Known for many famous CS quotes, including, "It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures."
+
+  His musings set a trend that still exists today, analyzing the economics of software engineering.  Perlis blazed a trail that others
+  became famous for - Boehm, McCabe, Jones, etc.
+  * [Alan Perlis ACM Award Page](http://amturing.acm.org/award_winners/perlis_0132439.cfm)
+  * [Annotated Bibliography](http://amturing.acm.org/bib/perlis_0132439.cfm)
+  * [ACM Award Speech](http://delivery.acm.org/10.1145/1290000/1283921/a1966-perlis.pdf?ip=75.69.152.145&id=1283921&acc=OPEN&key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437&CFID=452179444&CFTOKEN=88017034&__acm__=1415227807_073cf605468f63b7162e2ee946a6b3c2) - The Synthesis of Algorithmic Systems
+  * [Social processes and proofs of theorems and programs](http://www.csee.umbc.edu/courses/pub/www/undergraduate/courses/331/resources/papers/proofs.pdf)
+  * [What is computer science?]()
+  * 1983 - [Barry Boehm](https://en.wikipedia.org/wiki/Barry_Boehm)'s [Software Engineering Economics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.9642&rep=rep1&type=pdf)
+  * 1999 - [David Parnas](https://en.wikipedia.org/wiki/David_Parnas)'s [Software Engineering Programs are not Computer Science Programs](http://courses.utep.edu/portals/870/parnas_SEisnotCS.pdf)
+
+* 1967 [Maurice V. Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes)
+  Professor Wilkes is best known as the builder and designer of the EDSAC, the first computer with an internally stored program. Built in 1949, the EDSAC used a mercury delay line memory.
+  He is also known as the author, with Wheeler and Gill, of a volume on "Preparation of Programs for Electronic Digital Computers" in 1951, in which program libraries were effectively introduced.
+  That was the first textbook, ever, on programming.
+
+  Our fundamental notions of microprogramming, computer architecture, parallel capabilties, version control, and later in life details in OS and time sharing systems, have their roots in Wilkes' work.
+  Symbolic labels within programs, macros, subroutines - the list goes on, all works routed in Wilkes' work.
+  Towards the end of his career and life, he began pioneering the work for capability-based computing - work that is still being explored and considered cutting-edge today.
+  * [Maurice Wilkes ACM Award Page](http://amturing.acm.org/award_winners/wilkes_1001395.cfm)
+  * [Annotated Bibliography](http://amturing.acm.org/bib/wilkes_1001395.cfm)
+  * [ACM Award Speech](http://delivery.acm.org/10.1145/1290000/1283922/a1967-wilkes.pdf?ip=75.69.152.145&id=1283922&acc=OPEN&key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437&CFID=452179444&CFTOKEN=88017034&__acm__=1415229153_6f76035f1b40644a1c79354cf74f3049) - Computers Then and Now
+  * [The best way to design an automatic calculating machine](https://www.cs.princeton.edu/courses/archive/fall10/cos375/BestWay.pdf)
+  * 1993 [Fisher et. al./HP Labs](http://en.wikipedia.org/wiki/Josh_Fisher)'s [Instruction-level parallel processing: history, overview, and perspective](https://courses.engr.illinois.edu/ece512/Papers/Rau.1993.JS.pdf)
+  * 2014 [Feske](http://scholar.google.com/scholar?q=Norman+Feske)'s [Genode as a general-purpose OS](http://www.genode-labs.com/publications/nfeske-genode-fosdem-2014-02.pdf); Slides only.
+
+* 1968 - [Richard W. Hamming](https://en.wikipedia.org/wiki/Richard_Hamming)
+  For his work on numerical methods, automatic coding systems, and error-detecting and error-correcting codes.
+
+  The Manhattan Project, Bell Labs' infamous "Young Turks", IBMs elite OS group - Hamming was members of all of them.
+
+  Equal parts brillian mathematician, rogue physicist, computer scientist, and educator, Hamming made contributions all over the place.
+  Basically everything we use hinges on error-correcting codes or Hamming Distance.
+  "The purpose of computing is insight, not numbers."
+  * [Richard Hamming ACM Award Page](http://amturing.acm.org/award_winners/hamming_1000652.cfm)
+  * [Annotated Bibliography](http://amturing.acm.org/bib/hamming_1000652.cfm)
+  * [ACM Award Speech](http://delivery.acm.org/10.1145/1290000/1283923/a1968-hamming.pdf?ip=75.69.152.145&id=1283923&acc=OPEN&key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437&CFID=452179444&CFTOKEN=88017034&__acm__=1415233214_c52e201428e4849e00429c58f2c76d93) - One Man's View of Computer Science
+  * [Error detecting and error correcting codes](http://www.lee.eng.uerj.br/~gil/redesII/hamming.pdf)
+  * [The Unreasonable Effectiveness of Mathematics](http://hiperc2.buffalostate.edu/HIPERC2a/home/carbonjo/public_html/documents/Hamming.pdf)
+  * 2009 [Halevy, Norvig, Pereira](https://en.wikipedia.org/wiki/Peter_Norvig)'s [The Unreasonable Effectiveness of Data](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/35179.pdf)
+  * 2005 Wang et. al.'s [Distributed Fault-Tolerant Classification in Wireless Sensor Networks](http://140.113.13.233/html/paper/wanhanvarche05apr.pdf)
+
