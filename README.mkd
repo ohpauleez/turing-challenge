@@ -21,6 +21,7 @@ Some of text below has been extracted from [The ACM Award Wikipedia page](https:
 ### The Award Winners
 
 * 1966 - [Alan J. Perlis](https://en.wikipedia.org/wiki/Alan_Perlis)
+
   For his influence in the area of advanced computer programming techniques and compiler construction.
 
   ALGOL, numeric and algorithmic computations, defining the field of computer science, establishing a notion of software metrics.
@@ -37,6 +38,7 @@ Some of text below has been extracted from [The ACM Award Wikipedia page](https:
   * 1999 - [David Parnas](https://en.wikipedia.org/wiki/David_Parnas)'s [Software Engineering Programs are not Computer Science Programs](http://courses.utep.edu/portals/870/parnas_SEisnotCS.pdf)
 
 * 1967 - [Maurice V. Wilkes](https://en.wikipedia.org/wiki/Maurice_Wilkes)
+
   Professor Wilkes is best known as the builder and designer of the EDSAC, the first computer with an internally stored program. Built in 1949, the EDSAC used a mercury delay line memory.
   He is also known as the author, with Wheeler and Gill, of a volume on "Preparation of Programs for Electronic Digital Computers" in 1951, in which program libraries were effectively introduced.
   That was the first textbook, ever, on programming.
@@ -52,6 +54,7 @@ Some of text below has been extracted from [The ACM Award Wikipedia page](https:
   * 2014 [Feske](http://scholar.google.com/scholar?q=Norman+Feske)'s [Genode as a general-purpose OS](http://www.genode-labs.com/publications/nfeske-genode-fosdem-2014-02.pdf); Slides only.
 
 * 1968 - [Richard W. Hamming](https://en.wikipedia.org/wiki/Richard_Hamming)
+
   For his work on numerical methods, automatic coding systems, and error-detecting and error-correcting codes.
 
   The Manhattan Project, Bell Labs' infamous "Young Turks", IBMs elite OS group - Hamming was members of all of them.
